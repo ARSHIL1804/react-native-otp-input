@@ -1,0 +1,23 @@
+{
+  "name": "react-native-otp-input",
+  "version": "1.0.0",
+  "description": "React native package for OTP input with customizable UI and great UX.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ARSHIL1804/react-native-otp-input.git"
+  },
+  "author": "Arshil Vahora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ARSHIL1804/react-native-otp-input/issues"
+  },
+  "homepage": "https://github.com/ARSHIL1804/react-native-otp-input#readme",
+  "peerDependencies": {
+    "react":"^",
+    "react-native":"^"
+  }
+}
