@@ -1,6 +1,6 @@
 {
   "name": "react-native-otp-ui",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React native package for OTP input with customizable UI and great UX.",
   "main": "index.js",
   "scripts": {
