@@ -2,7 +2,7 @@
 
 React native OTP component with customizable UI and great User experience with features like auto-focusing, auto-focus to next, and move backward on backspace key press.
 
-[![npm version](https://badge.fury.io/js/react-native-otp-ui.svg)]
+![npm version](https://badge.fury.io/js/react-native-otp-ui.svg)
 ![npm downloads](https://img.shields.io/npm/dw/react-native-otp-ui)
 
 #### How to Use
